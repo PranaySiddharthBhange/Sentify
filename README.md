@@ -45,10 +45,8 @@ Live Link :
 
 Please note that the website might take some time to load as it is hosted on a free tier of Streamlit Cloud. Also, the website might not work properly if the Twitter API rate limit is exceeded due to excessive usage.
 
-<video width="600" controls>
-  <source src="https://firebasestorage.googleapis.com/v0/b/nearme-bc024.appspot.com/o/ei%2Fdemo.mp4?alt=media&token=006cb1e6-22f0-4218-82ee-136e618a9be1" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/PranaySiddharthBhange/Sentify/assets/125269727/9cefb214-f792-47e9-b146-36f2d12ac3b2
+
 
 To run the Emotional Intelligence project locally, follow these steps:
 
