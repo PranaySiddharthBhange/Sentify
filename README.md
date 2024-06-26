@@ -21,7 +21,7 @@
 
 ## Screenshot
 
-![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/nearme-bc024.appspot.com/o/ei%2Fnewplot.png?alt=media&token=f1590610-c52b-4957-915d-90b74add0834)
+![](https://firebasestorage.googleapis.com/v0/b/nearme-bc024.appspot.com/o/ei%2Fnewplot.png?alt=media&token=f1590610-c52b-4957-915d-90b74add0834)
 *Sentiment Distribution for #fairjustice hashtag overtime*
 
 ![Screenshot 2](https://firebasestorage.googleapis.com/v0/b/nearme-bc024.appspot.com/o/ei%2Fnewplot%20(7).png?alt=media&token=cbeedb9e-847c-4c2b-b8dc-292dd5b538e5)
@@ -41,12 +41,12 @@ Few More Analysis Screenshots
 ## Website
 
 Live Link : 
-[Emotional Intelligence Website](https://analyzerrr.streamlit.app/)
+[Emotional Intelligence Website](https://analyzerr.streamlit.app/)
 
 Please note that the website might take some time to load as it is hosted on a free tier of Streamlit Cloud. Also, the website might not work properly if the Twitter API rate limit is exceeded due to excessive usage.
 
 <video width="600" controls>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="https://firebasestorage.googleapis.com/v0/b/nearme-bc024.appspot.com/o/ei%2Fdemo.mp4?alt=media&token=006cb1e6-22f0-4218-82ee-136e618a9be1" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
