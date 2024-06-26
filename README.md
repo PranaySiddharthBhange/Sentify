@@ -41,7 +41,7 @@ Few More Analysis Screenshots
 ## Website
 
 Live Link : 
-[Emotional Intelligence Website](https://analyzerr.streamlit.app/)
+[Emotional Intelligence Website](https://analyzerrr.streamlit.app/)
 
 Please note that the website might take some time to load as it is hosted on a free tier of Streamlit Cloud. Also, the website might not work properly if the Twitter API rate limit is exceeded due to excessive usage.
 
